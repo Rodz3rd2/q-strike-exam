@@ -1,0 +1,14 @@
+{
+  "name": "qstrike-test",
+  "homepage": "https://github.com/laravel/laravel",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
